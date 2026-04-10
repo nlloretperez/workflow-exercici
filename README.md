@@ -1,1 +1,3 @@
-# workflow-exercici
+# Workflow exercici
+
+Aquest repositori prova GitHub Actions.
